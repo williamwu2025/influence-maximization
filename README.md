@@ -5,6 +5,7 @@
 + Switched to *C#* after completing the *Python* version. Improved data structures reduced mean memory consumption by 40% and accelerated the same algorithms by 10 times
 
 ![](./results/model.png)
+
 ---
 Datasets of social networks are obtained from [Stanford Network Analysis Project](http://snap.stanford.edu/index.html):
 
