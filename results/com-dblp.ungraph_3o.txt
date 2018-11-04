@@ -1,0 +1,15 @@
+Choose time:3644.615	Propagation time:26035.609	a:0.6	b:10	ave:31.0157	std:9.63135782275779	memory:371
+Choose time:3862.044	Propagation time:26252.692	a:0.6	b:20	ave:55.69315	std:14.2076561429923	memory:375
+Choose time:3914.052	Propagation time:26638.594	a:0.6	b:30	ave:79.4203	std:16.9392900651121	memory:379
+Choose time:4122.551	Propagation time:26800.446	a:0.6	b:40	ave:99.42845	std:19.314670087721	memory:383
+Choose time:4182.635	Propagation time:26790.936	a:0.6	b:50	ave:117.60525	std:20.8278184752388	memory:387
+Choose time:4647.006	Propagation time:25400.592	a:0.8	b:10	ave:43.38	std:20.6086680792333	memory:557
+Choose time:4653.431	Propagation time:25516.318	a:0.8	b:20	ave:80.05125	std:31.0307383643622	memory:630
+Choose time:5855.097	Propagation time:26409.973	a:0.8	b:30	ave:112.585	std:37.5030315441296	memory:562
+Choose time:4809.319	Propagation time:26516.905	a:0.8	b:40	ave:139.381	std:41.1741549882935	memory:641
+Choose time:5879.224	Propagation time:26726.898	a:0.8	b:50	ave:164.5573	std:45.6895318066405	memory:591
+Choose time:8020.369	Propagation time:23753.637	a:1	b:10	ave:69.1445	std:61.4141898892266	memory:789
+Choose time:6985.477	Propagation time:25259.271	a:1	b:20	ave:130.58605	std:84.244511960112	memory:764
+Choose time:6744.364	Propagation time:27633.476	a:1	b:30	ave:185.13355	std:98.8625526394981	memory:731
+Choose time:7530.896	Propagation time:26938.419	a:1	b:40	ave:227.95335	std:112.98765938711	memory:704
+Choose time:5839.002	Propagation time:29989.759	a:1	b:50	ave:268.2429	std:121.313162515821	memory:681

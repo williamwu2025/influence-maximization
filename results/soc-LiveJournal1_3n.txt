@@ -1,0 +1,5 @@
+Choose time:72566.371	Propagation time:611505.804	a:1	b:10	ave:116.8414	std:226.278989846694	memory:2858
+Choose time:76602.438	Propagation time:691973.835	a:1	b:20	ave:214.3906	std:352.475887588984	memory:2855
+Choose time:80257.027	Propagation time:678341.848	a:1	b:30	ave:304.71505	std:407.248239595334	memory:2857
+Choose time:51900.59	Propagation time:611443.629	a:1	b:40	ave:384.9351	std:496.524357799282	memory:2857
+Choose time:50712.827	Propagation time:560597.013	a:1	b:50	ave:467.30355	std:498.078110749105	memory:2856

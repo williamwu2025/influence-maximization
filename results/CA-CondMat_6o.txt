@@ -1,0 +1,21 @@
+Choose time:63255.911	Propagation time:4377.357	a:0.6	b:10	ave:154.7819	std:42.0537433814161	memory:45
+Choose time:95575.188	Propagation time:5808.003	a:0.6	b:20	ave:253.57085	std:48.6964031554436	memory:44
+Choose time:109164.815	Propagation time:6672.182	a:0.6	b:30	ave:314.86075	std:51.4196573251659	memory:36
+Choose time:133377.301	Propagation time:7623.301	a:0.6	b:40	ave:392.71185	std:55.0033982548124	memory:38
+Choose time:129688.614	Propagation time:8235.754	a:0.6	b:50	ave:447.50065	std:56.5987084620973	memory:37
+Choose time:70987.915	Propagation time:5589.875	a:0.8	b:10	ave:294.91905	std:84.4874771613963	memory:58
+Choose time:102985.803	Propagation time:7757.457	a:0.8	b:20	ave:475.0371	std:96.9484013462313	memory:58
+Choose time:122263.734	Propagation time:8566.718	a:0.8	b:30	ave:579.12315	std:100.43562855918	memory:58
+Choose time:137925.334	Propagation time:10488.94	a:0.8	b:40	ave:707.85355	std:104.193805009691	memory:58
+Choose time:152474.239	Propagation time:11251.047	a:0.8	b:50	ave:792.6543	std:106.470014048604	memory:61
+Choose time:97153.545	Propagation time:8609.376	a:1	b:10	ave:618.34345	std:189.958866842528	memory:70
+Choose time:144500.065	Propagation time:13696.973	a:1	b:20	ave:953.08	std:203.013779581584	memory:70
+Choose time:172653.425	Propagation time:14190.039	a:1	b:30	ave:1122.40025	std:203.837029633817	memory:71
+Choose time:192950.742	Propagation time:15024.021	a:1	b:40	ave:1332.6588	std:203.906728880045	memory:73
+Choose time:202384.993	Propagation time:16229.72	a:1	b:50	ave:1465.06605	std:203.944361744564	memory:71
+
+Choose time:1268969.882	Propagation time:15969.402	a:1	b:20	ave:1255.98605	std:190.657633352032	memory:71
+Choose time:62428.367	Propagation time:4120.202	a:0.6	b:10	ave:154.79595	std:41.9063743790549	memory:46
+Choose time:1512197.221	Propagation time:19720.603	a:1	b:30	ave:1426.5926	std:192.775755283802	memory:70
+Choose time:1770148.557	Propagation time:22113.148	a:1	b:40	ave:1628.6584	std:192.556204027396	memory:69
+Choose time:1968564.135	Propagation time:21989.229	a:1	b:50	ave:1762.2077	std:192.823681534997	memory:69
